@@ -1,6 +1,3 @@
-> **Research use only. Not a medical device.**
-> This software was developed also in the context of the HEREDITARY project as a research prototype. It has not been assessed or certified under the EU Medical Device Regulation (EU) 2017/745. It must not be used to diagnose, treat, monitor or make any other decision about individual patients.
-
 # IEEE-CH2026
 
 This repository accompanies the paper "A Modular Pipeline for Multi-Layer Annotation and Curation of Cultural Heritage Texts", presented at the IEEE Conference on Cultural Heritage ([IEEE-CH 2026](https://www.ieee-ch.org/)).
@@ -51,7 +48,9 @@ pages <- readRDS("data/pages_raw.rds")
 token_annotations <- readRDS("data/token_annotations.rds")
 ```
 
+> **Research use only. Not a medical device.**
+> This resource was partially developed in the HEREDITARY project as a research prototype. It has not been assessed or certified under the EU Medical Device Regulation (EU) 2017/745. It must not be used to diagnose, treat, monitor or make any other decision about individual patients.
 
 ## Acknowledgement
 
-Partially Funded by the European Union under grant agreement No 101137074 (HEREDITARY). Views and opinions expressed are however those of the author(s) only and do not necessarily reflect those of the European Union or the European Health and Digital Executive Agency (HaDEA). Neither the European Union nor the granting authority can be held responsible for them.
+Partially funded by the European Union under grant agreement No 101137074 (HEREDITARY). Views and opinions expressed are however those of the author(s) only and do not necessarily reflect those of the European Union or the European Health and Digital Executive Agency (HaDEA). Neither the European Union nor the granting authority can be held responsible for them.
